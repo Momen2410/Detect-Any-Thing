@@ -7,3 +7,10 @@ Detect and Track anything at the COCO Dataset with yolov8m
 #### Overview Video: 
 
 https://github.com/Momen2410/Detect-Any-Thing/assets/108630729/9585e116-ac82-4d85-b81f-574a50669efd
+
+
+#**Why use GUI and Convert code to exe** 
+- Easy to use
+- Easy to understand
+- If you work as a freelancer you need protect your source code
+- Client won't run code and install libraries 
