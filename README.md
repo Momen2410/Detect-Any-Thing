@@ -15,4 +15,8 @@ https://github.com/Momen2410/Detect-Any-Thing/assets/108630729/9585e116-ac82-4d8
 - If you work as a freelancer you need to protect your source code
 - Client won't run code and install libraries 
 
-If you 
+# I will add:
+- Source code
+- Spplication
+- Yolov8m
+- Data --> Videos and picture /
