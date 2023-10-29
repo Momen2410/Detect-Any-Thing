@@ -17,6 +17,6 @@ https://github.com/Momen2410/Detect-Any-Thing/assets/108630729/9585e116-ac82-4d8
 
 # I will add:
 - Source code
-- Spplication
+- Application
 - Yolov8m
-- Data --> Videos and picture /
+- Data --> Videos and pictures 
